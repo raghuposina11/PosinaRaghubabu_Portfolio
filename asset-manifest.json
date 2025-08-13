@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PosinaRaghubabu_Portfolio/static/css/main.f0b3b491.css",
+    "main.js": "/PosinaRaghubabu_Portfolio/static/js/main.f86a6c54.js",
+    "static/js/453.66a7f26f.chunk.js": "/PosinaRaghubabu_Portfolio/static/js/453.66a7f26f.chunk.js",
+    "static/media/logo.svg": "/PosinaRaghubabu_Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PosinaRaghubabu_Portfolio/index.html",
+    "main.f0b3b491.css.map": "/PosinaRaghubabu_Portfolio/static/css/main.f0b3b491.css.map",
+    "main.f86a6c54.js.map": "/PosinaRaghubabu_Portfolio/static/js/main.f86a6c54.js.map",
+    "453.66a7f26f.chunk.js.map": "/PosinaRaghubabu_Portfolio/static/js/453.66a7f26f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b3b491.css",
+    "static/js/main.f86a6c54.js"
+  ]
+}
