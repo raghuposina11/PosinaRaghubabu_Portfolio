@@ -9,7 +9,7 @@ export default function Contact() {
     phone: "+91 7013855177",
     linkedin: "https://www.linkedin.com/in/raghu-babu-posina-08400a255",
     github: "https://github.com/raghuposina11",
-    resume: "/RAGHUBABU_POSINA_RESUME.pdf",
+    resume: process.env.PUBLIC_URL + "/RAGHUBABU_POSINA_RESUME.pdf",
   };
 
   const onSubmit = (e) => {

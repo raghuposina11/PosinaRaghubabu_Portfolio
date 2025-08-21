@@ -15,7 +15,7 @@ export default function About() {
         >
           <div className="relative w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden shadow-lg border-4 border-blue-500">
             <img
-              src="/Requirements/profile.jpg" // place your image here
+              src={process.env.PUBLIC_URL + '/Requirements/profile.jpg'} // place your image here
               alt="Raghu Babu Posina"
               className="w-full h-full object-cover"
             />

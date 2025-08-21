@@ -22,7 +22,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 1 }}
       >
-        Full Stack Developer | AI & ML Enthusiast
+        Full Stack Developer | AI & ML Enthusiast | 3DExperience Developer(Enthusiast)
       </motion.p>
 
       <motion.a

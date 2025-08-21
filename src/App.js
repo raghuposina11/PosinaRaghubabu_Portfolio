@@ -9,7 +9,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Education from './components/Education';
 import Internships from './components/Internships';
-
+import Certifications from './components/Certification';
 
 
 export default function App() {
@@ -22,6 +22,7 @@ export default function App() {
       <Internships />
       <Skills />
       <Projects />
+      <Certifications/>
       <Contact />
       <Footer />
     </div>
